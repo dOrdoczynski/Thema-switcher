@@ -1,0 +1,36 @@
+/* Default thema */
+html {
+    background: black;
+    color: white;
+    font-family: monospace;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p {
+    font-size: 30px;
+}
+
+/* thema switcher */
+.red_color {
+    color: red;
+    font-family: monospace;
+}
+.orange_color {
+    color: orange;
+    font-family: monospace;
+}
+.yellow_color {
+    color: yellow;
+    font-family: monospace;
+}
+.green_color {
+    color: green;
+    font-family: monospace;
+}
+.blue_color {
+    color: blue;
+    font-family: monospace;
+}
+.purple_color {
+    color: purple;
+    font-family: monospace;
+}
